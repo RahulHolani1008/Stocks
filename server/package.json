@@ -1,0 +1,11 @@
+{
+  "name": "stocks",
+  "version": "0.0.1",
+  "description": "Compare stocks",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "rahulholani1008@gmail.com",
+  "license": "MIT"
+}
